@@ -53,18 +53,10 @@ private ose spital, ku klientët/pacientët mund të rezervojnë një takim me n
 #### <u>Passwordi:</u> emmaWilliams
 <br> 
 
-#### <u>Username</u>: charlotteBrown
-#### <u>Passwordi:</u> charlotteBrown
-<br>
-
-#### <u>Username</u>: emmaSmith
-#### <u>Passwordi:</u> emmaSmith
-<br>
-
 #### <u>Username</u>: liamSmith   
 #### <u>Passwordi:</u> liamSmith
 
 <br>
 
 ## Pacienti
-#### Për të parë të gjitha features të këtij website-i ju lutem që të hapni një llogari tuajën me email-in tuaj që të mund ta verifikoni llogarinë dhe të pranoni detajet e terminit përmes email-it tuaj.
+#### Për të parë të gjitha features të këtij website-i hapni një llogari tuajën me email-in tuaj që të mund ta verifikoni llogarinë dhe të pranoni detajet e terminit përmes email-it tuaj.
